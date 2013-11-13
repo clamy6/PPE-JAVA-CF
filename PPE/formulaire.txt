@@ -1,0 +1,2 @@
+<FORM METHOD='GET'><table><br>
+<TR><TD><label for=2>2 :</label></TD><TD><input type='text' id=text/></TD></TR><br><TR><TD><label for=3>3 :</label></TD><TD><input type='text' id=text/></TD></TR><br><TR><TD><label for=4>4 :</label></TD><TD><input type='text' id=text/></TD></TR><br></FORM>
